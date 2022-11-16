@@ -1,4 +1,5 @@
-/*
+
+    /*
 *   Generar un programa que permita ingresar un nombre de una ciudad;
 *   Los nombres de las ciudades permitidas son las que empiezan con vocal.
 *   Si la ciudad es permitida presentar un mensaje:

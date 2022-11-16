@@ -25,13 +25,19 @@ public class Ejemplo01 {
         
         switch(cadena){
             case "Lunes":
-                System.out.printf("%s", cadena);
+                System.out.printf("%s\n", cadena);
                 break;
             
             case "Martes":
             case "martes":
-                System.out.printf("%s", cadena);
-                break;    
+                System.out.printf("%s\n", cadena);
+                break;
+                
+            case "viernes":
+            case "Viernes":
+            case "VIERNES":
+                System.out.printf("%s\n", cadena);
+                break;
             
             default:
                 System.out.println("ninguna de las anteriores");

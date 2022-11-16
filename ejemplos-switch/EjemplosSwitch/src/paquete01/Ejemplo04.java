@@ -20,7 +20,7 @@ public class Ejemplo04 {
         double radianes;
         double resultado;
         
-        resultado = 0;
+        resultado = 0;  
         System.out.println("Ingrese la opción trigonométrica.\n"
                 + "1 seno\n"
                 + "2 coseno\n"
